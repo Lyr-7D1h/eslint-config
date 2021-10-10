@@ -1,0 +1,29 @@
+{
+  "name": "@lyr_7d1h/eslint-config",
+  "version": "1.0.0",
+  "description": "Lyr's eslint config",
+  "author": "Lyr 7D1h (lyr-7d1h@pm.me)",
+  "license": "GNU GPL V3",
+  "homepage": "https://github.com/Lyr-7D1h/eslint-config",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lyr-7D1h/eslint-config.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig"
+  ],
+  "dependencies": {
+    "@typescript-eslint/eslint-plugin": "^4.33.0",
+    "@typescript-eslint/parser": "^4.33.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-import": "^2.24.2"
+  },
+  "peerDependencies": {
+    "eslint": ">=7.0.0",
+    "prettier": ">=2.0.0",
+    "typescript": ">=4.0.0"
+  }
+}
