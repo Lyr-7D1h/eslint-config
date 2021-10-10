@@ -1,5 +1,7 @@
 # Eslint config
 
+![GitHub package.json version](https://img.shields.io/github/package-json/v/lyr-7d1h/eslint-config?label=npm&style=plastic)
+
 ## Configure
 
 It will look for `tsconfig.eslint.json` for linting typescript files with the right config.
