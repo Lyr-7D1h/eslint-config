@@ -6,6 +6,7 @@ module.exports = {
   parserOptions: {
     project: './tsconfig.eslint.json',
   },
+  ignorePatterns: [".eslintrc.js"],
   plugins: ['@typescript-eslint'],
   extends: [
     'eslint:recommended',

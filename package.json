@@ -1,6 +1,6 @@
 {
   "name": "@lyr_7d1h/eslint-config",
-  "version": "1.0.0",
+  "version": "2.0.1",
   "description": "Lyr's eslint config",
   "author": "Lyr 7D1h (lyr-7d1h@pm.me)",
   "license": "GNU GPL V3",
@@ -18,8 +18,8 @@
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "^5.50.0",
     "@typescript-eslint/parser": "^5.50.0",
-    "eslint-config-prettier": "^8.3.0",
-    "eslint-plugin-import": "^2.24.2"
+    "eslint-config-prettier": "^8.6.0",
+    "eslint-plugin-import": "^2.27.5"
   },
   "peerDependencies": {
     "eslint": "^8.33.0",
